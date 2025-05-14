@@ -2,15 +2,15 @@
 
 I'm a software engineer passionate about building reliable, scalable, and well-designed systems. I specialize in full-stack development, with experience in ASP.NET, React, PostgreSQL, and Docker. I'm currently pursuing my master's degree in Software Engineering at Masaryk University and developing a research data acquisition application for CEITEC as part of my thesis.
 
----
+📫 **Contact**  
+📧 david@konecny.eu  
+👥 [www.linkedin.com/in/david-konečný-fullstack](www.linkedin.com/in/david-konečný-fullstack)
 
 ## 🔧 Technical Skills
 
 - **Languages & Frameworks:** TypeScript, JavaScript, C#, Python, PHP, React, ASP.NET, Node.js
 - **Databases & Tools:** PostgreSQL, MySQL, Redis, Docker, Git, CI/CD
 - **Other:** System architecture, DevOps practices, Team leadership, Teaching
-
----
 
 ## 📚 Education
 
@@ -26,8 +26,6 @@ I'm a software engineer passionate about building reliable, scalable, and well-d
 🎓 BSc in Application Programming and Development  
 *Sept 2019 – Feb 2023*  
 Final thesis: *Web application for managing maintenance of additive manufacturing devices*
-
----
 
 ## 💼 Work Experience
 
@@ -46,8 +44,6 @@ Final thesis: *Web application for managing maintenance of additive manufacturin
 - Developed ERP/CRM system for project and client management
 - Used PHP, Python, MySQL, Docker, and React
 
----
-
 ## 🌍 Languages
 
 - 🇨🇿 Czech – Native
@@ -55,15 +51,7 @@ Final thesis: *Web application for managing maintenance of additive manufacturin
 - 🇪🇸 Spanish - Beginner
 - 🇩🇪 German  - Beginner
 
----
-
 ## 🎙️ Other Activities
 
 - **TEDx Masaryk University** – Website admin, technical production
 - **Munie Student Association** – Web & video editor, event support
-
----
-
-📫 **Contact**  
-📧 david@konecny.eu  
-👥 [www.linkedin.com/in/david-konečný-fullstack](www.linkedin.com/in/david-konečný-fullstack)
