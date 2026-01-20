@@ -16,7 +16,7 @@ I'm a software engineer passionate about building reliable, scalable, and well-d
 
 **Masaryk University, Brno**  
 🎓 MSc in Software Engineering  
-*Feb 2023 – Present (expected graduation: June 2025)*
+*Feb 2023 – June 2025*
 
 **Tampere University, Finland**  
 🇫🇮 Exchange Program – Computer Science (GPA: 4.8)  
@@ -30,7 +30,7 @@ Final thesis: *Web application for managing maintenance of additive manufacturin
 ## 💼 Work Experience
 
 **Full-Stack Developer – Appio Digital**  
-*Nov 2021 – Aug 2025*  
+*Nov 2021 – Present*  
 - Custom web application development (React, ASP.NET, PostgreSQL, Docker)
 - Technical analysis, client communication, and team coordination
 
