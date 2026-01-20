@@ -29,8 +29,13 @@ Final thesis: *Web application for managing maintenance of additive manufacturin
 
 ## 💼 Work Experience
 
+**CTO – Appio Digital**  
+*Aug 2025 – Present*  
+- Custom web application development (React, ASP.NET, PostgreSQL, Docker)
+- Technical analysis, client communication, and team coordination
+
 **Full-Stack Developer – Appio Digital**  
-*Nov 2021 – Present*  
+*Nov 2021 – Aug 2025*  
 - Custom web application development (React, ASP.NET, PostgreSQL, Docker)
 - Technical analysis, client communication, and team coordination
 
