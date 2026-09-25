@@ -1,60 +1,71 @@
 # Hi, I'm David Konečný 👋
 
-I'm a software engineer passionate about building reliable, scalable, and well-designed systems. I specialize in full-stack development, with experience in ASP.NET, React, PostgreSQL, and Docker. I'm currently pursuing my master's degree in Software Engineering at Masaryk University and developing a research data acquisition application for CEITEC as part of my thesis.
+I build web applications end-to-end - from the database schema to the button you click. Most recently I was senior developer & tech lead at Appio Digital, where I led a six-person engineering team building custom software for major clients across the Czech Republic. For eight years I've worked on the business-critical software that quietly keeps a company running: PLM, B2B, ERPs, CRMs, internal tools and the integrations that hold them together. I'm open to tech lead, senior developer or software architect roles, available from October.
 
 📫 **Contact**  
 📧 david@konecny.eu  
-👥 [www.linkedin.com/in/david-konečný-fullstack](www.linkedin.com/in/david-konečný-fullstack)
+👥 [linkedin.com/in/david-konečný-fullstack](https://www.linkedin.com/in/david-konečný-fullstack)  
+🌐 [davidkonecny.eu](https://davidkonecny.eu)  
+📍 Brno, Czechia
 
 ## 🔧 Technical Skills
 
-- **Languages & Frameworks:** TypeScript, JavaScript, C#, Python, PHP, React, ASP.NET, Node.js
-- **Databases & Tools:** PostgreSQL, MySQL, Redis, Docker, Git, CI/CD
-- **Other:** System architecture, DevOps practices, Team leadership, Teaching
+- **Backend:** ASP.NET, Node, Python
+- **Frontend:** React, TypeScript
+- **Data:** PostgreSQL, Redis, MongoDB
+- **Messaging:** AWS SQS, RabbitMQ, Kafka
+- **Cloud & Infra:** AWS (intermediate), Docker, Kubernetes, CI/CD
+- **AI:** LLMs, RAG, agents
+- **Other:** System design & architecture, client communication & solution design, team leadership & project management, AI-driven development (agents + safeguards)
 
 ## 📚 Education
 
 **Masaryk University, Brno**  
-🎓 MSc in Software Engineering  
-*Feb 2023 – June 2025*
+🎓 Ing. (M.Sc.) Software Engineering  
+*Feb 2023 - Jun 2025*  
+Thesis: [*Acquisition of research data from specialised instruments*](https://is.muni.cz/th/u1klq/)
 
 **Tampere University, Finland**  
-🇫🇮 Exchange Program – Computer Science (GPA: 4.8)  
-*Aug 2024 – Dec 2024*
+🇫🇮 Erasmus - Software Engineering and System Design  
+*Aug 2024 - Dec 2024*
 
 **Masaryk University, Brno**  
-🎓 BSc in Application Programming and Development  
-*Sept 2019 – Feb 2023*  
-Final thesis: *Web application for managing maintenance of additive manufacturing devices*
+🎓 Bc. Programming & Application Development  
+*Sep 2019 - Jan 2023*  
+Thesis: [*A service-log application for additive-manufacturing equipment*](https://is.muni.cz/th/sfeev/)
 
 ## 💼 Work Experience
 
-**CTO – Appio Digital**  
-*Aug 2025 – Present*  
-- Custom web application development (React, ASP.NET, PostgreSQL, Docker)
-- Technical analysis, client communication, and team coordination
+**Senior Developer & Tech Lead - Appio Digital**  
+*Aug 2025 - Sep 2026 · Prague (remote)*  
+- Led a team of six (three frontend, two backend, one QA) building custom software for clients, while staying hands-on in the code
+- Owned architecture and system design; introduced responsible AI-driven development and automated vulnerability scanning in CI/CD
 
-**Full-Stack Developer – Appio Digital**  
-*Nov 2021 – Aug 2025*  
-- Custom web application development (React, ASP.NET, PostgreSQL, Docker)
-- Technical analysis, client communication, and team coordination
+**Full-Stack Developer - Appio Digital**  
+*Nov 2021 - Aug 2025 · Prague (remote)*  
+- Custom web-application development end-to-end: client requirements, technical design, architecture, integrations and DevOps
+- Built PLM platforms for Bikefun (Superior, Rock Machine, Frappé) and Robe, and shipped AI features (chatbots, LLM pipelines) into client products
 
-**Teaching Assistant – Masaryk University**  
-*Mar 2023 – Jul 2024*  
-- Led seminars in Web Development and Markup Languages (PB138)
-- Assessed student assignments and provided feedback
+**Seminar Tutor - Masaryk University**  
+*Mar 2023 - Jul 2024 · Brno*  
+- Ran weekly seminars in Basics of Web Development & Markup Languages (PB138)
+- Graded coursework and assessed students in the bachelor-level course
 
-**Full-Stack Developer – Graweb s.r.o.**  
-*Feb 2018 – Nov 2021*  
-- Developed ERP/CRM system for project and client management
-- Used PHP, Python, MySQL, Docker, and React
+**Full-Stack Developer - GRAWEB s.r.o.**  
+*Feb 2018 - Nov 2021 · Part-time · Hustopeče*  
+- Built and maintained ISG, an in-house ERP/CRM, and led the migration from the company's legacy platform onto it
+- Integrated projects, clients, document management and email; added time tracking and holiday management
+
+**IT Support - Home Credit ČR & SR**  
+*Apr 2018 - Jan 2023 · Part-time · Brno*  
+- IT support alongside university - my first paid role inside a real engineering organisation
 
 ## 🌍 Languages
 
-- 🇨🇿 Czech – Native
-- 🇬🇧 English – Advanced (B2–C1)
-- 🇪🇸 Spanish - Beginner
-- 🇩🇪 German  - Beginner
+- 🇨🇿 Czech - Native
+- 🇬🇧 English - Full professional
+- 🇪🇸 Spanish - Elementary
+- 🇩🇪 German - Elementary
 
 ## 🎙️ Other Activities
 
