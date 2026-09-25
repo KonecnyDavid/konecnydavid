@@ -6,7 +6,7 @@
 
 I build web applications end-to-end - from the database schema to the button you click. Most recently I was **senior developer & tech lead at Appio Digital**, where I led a six-person engineering team building custom software for major clients across the Czech Republic. After eight years of building software, I'm looking for my next role - somewhere I can shape technical direction, lead a team and still write code.
 
-**Brno** · Czechia &nbsp;|&nbsp; **8** years building software &nbsp;|&nbsp; **Available** from October &nbsp;|&nbsp; [david@konecny.eu](mailto:david@konecny.eu)
+**Brno** · Czechia &nbsp;|&nbsp; **8** years building software &nbsp;|&nbsp; **Available** from October &nbsp;|&nbsp; [david@konecny.eu](mailto:david@konecny.eu) &nbsp;|&nbsp; [+420 774 158 774](tel:+420774158774)
 
 [Full CV](https://davidkonecny.eu) · [LinkedIn](https://www.linkedin.com/in/david-konečný-fullstack)
 
@@ -169,6 +169,7 @@ Thesis: [A service-log application for additive-manufacturing equipment](https:/
 If you're hiring a tech lead, senior developer or software architect, let's talk. I usually reply within two working days - with a real answer, not a calendar link.
 
 - **Email:** [david@konecny.eu](mailto:david@konecny.eu)
+- **Phone:** [+420 774 158 774](tel:+420774158774)
 - **LinkedIn:** [/in/david-konečný-fullstack](https://www.linkedin.com/in/david-konečný-fullstack)
 - **GitHub:** [/KonecnyDavid](https://github.com/KonecnyDavid)
 - **Based in:** Brno · South Moravia · CZ
