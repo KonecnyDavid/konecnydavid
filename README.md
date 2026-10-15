@@ -10,17 +10,13 @@ I build web applications end-to-end - from the database schema to the button you
 
 ## About
 
-**One developer, the whole stack.**
-
 I've been writing software professionally for eight years - mostly the business-critical work that quietly keeps a company running: PLM, B2B, ERPs, CRMs, internal tools, and the integrations that hold them together.
 
-Most recently I was senior developer & tech lead at [Appio Digital](https://appio.digital), where most of my day looked like this: talk with stakeholders, map their requirements, design the architecture, lead the team - and still write a lot of the code myself. I take system design seriously and try to leave every codebase a little more honest than I found it. Next I'm looking for a role where I can shape technical direction and keep building.
+Most recently I was senior developer & tech lead at [Appio Digital](https://appio.digital), where I talked with clients, mapped their requirements, designed the architecture, led the team - and still wrote a lot of the code myself. I take system design seriously and try to leave every codebase a little more honest than I found it. Next I'm looking for a role where I can shape technical direction and keep building.
 
-I keep up with what's happening in the field day to day and lean on responsible AI-driven development - pairing with coding agents and building safeguards around them (review gates, scoped permissions, deterministic tests) so they increase my output instead of piling technical debt into the codebase. On the building side I've shipped real AI systems too: customer-facing chatbots and internal LLM pipelines wired into production data.
+I keep up with what's happening in the field day to day and lean on responsible AI-driven development - pairing with coding agents and building safeguards around them (review gates, scoped permissions, deterministic tests) so they increase my output instead of piling technical debt into the codebase. On the building side I've shipped real AI systems too: customer-facing chatbots, my own projects and internal LLM pipelines wired into production data.
 
 ## How I work
-
-**Four things I bring to a project.**
 
 ### 01 · Stakeholder conversations & *solution design*
 
@@ -48,11 +44,9 @@ Beyond using AI, I ship it. Customer-facing chatbots, LLM pipelines processing i
 
 ## Experience
 
-**Where I've worked.**
-
 ### Senior Developer & Tech Lead at Appio Digital
 
-*Aug 2025 - Sep 2026 · 1 year 2 months · Prague (remote), Czechia*
+*Aug 2025 - Oct 2026 · 1 year 3 months · Prague (remote), Czechia*
 
 - Managed a team of six (three frontend, two backend, one QA) owning a CMS, website, PLM and mobile app, while staying hands-on in the code.
 - Also worked as a developer in a second team delivering a PLM, 3 websites, a CMS and a B2B portal.
@@ -86,7 +80,7 @@ Beyond using AI, I ship it. Customer-facing chatbots, LLM pipelines processing i
 
 ### Seminar Tutor - Basics of Web Development & Markup Languages (PB138) at Masaryk University
 
-*Mar 2023 - Jul 2024 · 1 year 5 months · Brno, Czechia*
+*Mar 2023 - Jun 2024 · 1 year 4 months · Brno, Czechia*
 
 - Ran weekly seminars for a group of up to 20 students over 2 semesters of the bachelor-level web development course.
 - Graded coursework and assessed students.
@@ -104,8 +98,8 @@ Beyond using AI, I ship it. Customer-facing chatbots, LLM pipelines processing i
 
 **Selected work**
 
-- **ISG:** I designed, built and ran GRAWEB's in-house system, which combines a CRM with an ERP for projects: workflow-driven projects, tasks, time tracking, capacity planning and invoicing. It also includes Kanban boards, an Outlook-synced calendar, IMAP mail filed by project, a client file portal, real-time chat, and automatic import of e-shop orders.
-- **Tiskárna Hustopeče - Storage:** Designed and ran a print-data storage for hundreds of clients, automatically synced to ISG and matched to orders.
+- **ISG CRM/ERP system:** I designed, built and ran GRAWEB's in-house system, which combines a CRM with an ERP for projects: workflow-driven projects, tasks, time tracking, capacity planning and invoicing. It also includes Kanban boards, an Outlook-synced calendar, IMAP mail filed by project, a client file portal, real-time chat, and automatic import of e-shop orders.
+- **Tiskárna Hustopeče - Storage:** Designed and ran print-data storage for hundreds of clients, automatically synced to ISG and matched to orders.
 - **Multimedia panel for the Technical Museum in Brno:** Built an interactive touch panel for the UNIS Computers exhibition, presenting multimedia content to visitors in Czech and English.
 - **Agrotec freight exchange:** A freight exchange where carriers bid on transport requests. Built in Symfony and MySQL.
 
@@ -120,8 +114,6 @@ Beyond using AI, I ship it. Customer-facing chatbots, LLM pipelines processing i
 `Support` `Internal tooling` `Communication`
 
 ## Projects
-
-**What I've built on my own.**
 
 ### Cestopix
 
@@ -161,13 +153,11 @@ Designed and built a custom order management and planning system for KIP Brno in
 
 ## Education
 
-**Where I studied.**
-
 ### Ing. (M.Sc.) Software Engineering
 
 Masaryk University · *Feb 2023 - Jun 2025 · Brno, Czechia*
 
-Master's in Software Engineering, programme Design & Development of Software Systems. My studies broadened my knowledge of advanced software architecture, distributed systems and the engineering side of building real software. Through the mandatory practicum I got to apply that knowledge on a real industry project. In management-focused courses I led a team of classmates, which prepared me for a tech-lead role.
+Master's in Software Engineering, programme Design & Development of Software Systems. My studies broadened my knowledge of advanced software architecture, distributed systems and the engineering side of building real software. Through the mandatory practicum I got to apply that knowledge on a real industry project. In management-focused courses I led a team of classmates, which prepared me for a tech-lead role. I graduated with distinction.
 
 Thesis: [Acquisition of research data from specialised instruments](https://is.muni.cz/th/u1klq/)
 
@@ -175,7 +165,7 @@ Thesis: [Acquisition of research data from specialised instruments](https://is.m
 
 Tampere University · *Aug 2024 - Dec 2024 · Tampere, Finland*
 
-Erasmus exchange in Finland, where I completed advanced coursework in software engineering and system design. I broadened my experience working in an international team there and gained a new perspective on the IT field.
+Erasmus exchange in Finland, where I completed advanced coursework in software engineering and system design. I broadened my experience working in an international team there and gained a new perspective on the IT field. I finished with a GPA of 1.2.
 
 ### Bc. Programming & Application Development
 
@@ -186,8 +176,6 @@ Bachelor's in Programming & Application Development. My studies gave me a solid 
 Thesis: [A service-log application for additive-manufacturing equipment](https://is.muni.cz/th/sfeev/)
 
 ## Skills & Languages
-
-**What I bring.**
 
 ### Top skills
 
@@ -208,7 +196,7 @@ Thesis: [A service-log application for additive-manufacturing equipment](https:/
 ### Stack I reach for
 
 - **Backend:** ASP.NET · Node · Python
-- **Frontend:** React · TypeScript
+- **Frontend:** React · TypeScript · Svelte
 - **Data:** PostgreSQL · Redis · MongoDB
 - **Messaging:** AWS SQS · RabbitMQ · Kafka
 - **Cloud:** AWS · intermediate
@@ -217,9 +205,9 @@ Thesis: [A service-log application for additive-manufacturing equipment](https:/
 
 ## Contact
 
-**Looking for someone to lead your engineering?**
+**Looking for an experienced developer or someone to lead your engineering?**
 
-If you're hiring a tech lead, senior developer or software architect, let's talk. I usually reply within two working days - with a real answer, not a calendar link.
+If you're hiring a senior developer, tech lead or software architect, get in touch.
 
 - **Email:** [david@konecny.eu](mailto:david@konecny.eu)
 - **Phone:** [+420 774 158 774](tel:+420774158774)
