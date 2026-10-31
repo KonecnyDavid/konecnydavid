@@ -149,9 +149,9 @@ Link: [Tiskárna Hustopeče](https://graweb.com/tisk)
 
 *October 2026*
 
-Specification, design and implementation of a new website with an advanced CMS for Ná-byteček, a family joinery business near Jaroměř.
+Specification, design and implementation of a new website with an advanced CMS for Ná-byteček, a family joinery business near Jaroměř. It includes a custom Pinterest integration using OAuth2.
 
-Link: [Ná-byteček](https://nabytecek.davidkonecny.eu/)
+Link: [Ná-byteček](https://www.na-bytecek.cz)
 
 ### KipAdmin
 
