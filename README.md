@@ -125,6 +125,16 @@ Link: [Cestopix](https://cestopix.cz/)
 
 `SaaS` `Svelte` `Cloudflare` `Serverless` `S3` `Payment gateway` `Product design` `Marketing`
 
+### hrajkarticky.cz
+
+*2026*
+
+A party card game played on a single phone, with paid card decks, co-created with Martin Morávek (design, content, marketing). Implemented the entire SaaS platform: landing page, game with offline mode, user accounts (email, Google), card, Apple Pay and Google Pay payments via Comgate, automated invoicing, promo and gift codes, and an admin panel with statistics. The app is bilingual (Czech/English), runs on a single Cloudflare Worker and is covered by unit, integration and E2E tests.
+
+Link: [hrajkarticky.cz](https://hrajkarticky.cz/)
+
+`TypeScript` `SvelteKit and Svelte 5` `Cloudflare Workers, D1, R2` `Tailwind CSS` `OIDC` `Vitest & Playwright` `SaaS` `Comgate Payments`
+
 ### tiskarnahustopece.cz e-shop and print product configurator
 
 *July 2026 - October 2026*
